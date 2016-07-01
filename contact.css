@@ -1,0 +1,76 @@
+.cont{
+    text-align: center;
+}
+.title{
+    margin:20px auto;
+    font-size:45px;
+    text-align: center;
+}
+.text{
+    font-size:20px;
+    text-align: center;
+}
+.cont form{
+    display: block;
+
+}
+.cont form input[type='text']{
+    font-size: 16px;
+    width: 40%;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    background: #fafafa;
+    border: none;
+    color: #cecece;
+    border: 1px solid #cecece;
+    display: block;
+}
+.cont form textarea{
+    font-size: 16px;
+    width: 40%;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    background: #fafafa;
+    border: none;
+    color: #cecece;
+    border: 1px solid #cecece;
+    display: block;
+    resize: none;
+}
+.cont form input[type='submit']{
+    font-size: 20px;
+    font-weight:bold;
+    outline: none;
+    background: transparent;
+    border: none;
+    color: #000;
+    border: 0;
+    cursor: pointer;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+}
+.subm{
+    padding: 20px;
+    margin: 20px 0;
+    display: block;
+    float: left;
+    color: #000;
+    cursor: pointer;
+}
+
+.cont form input[type='submit']:hover{
+    color: red;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    -ms-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+}
+.foot{
+    margin-top:100px;
+}

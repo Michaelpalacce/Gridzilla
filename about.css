@@ -1,0 +1,120 @@
+body{
+    color: #2E2E2E;
+}
+.about-top{
+    padding:20px;
+}
+.about-bottom{
+    padding:20px;
+}
+.bottom-img{
+    float: left;
+    margin-right:20px;
+}
+.bottom-text p{
+    margin: 40px auto;
+}
+
+.amet{
+    color: #f03c3c;
+    font-size: 3.2em;
+    float: left;
+    line-height: 1em;
+}
+p.sem{
+    font-size: 1em;
+    color: #000;
+    line-height: 1.7em;
+}
+p.quote-left{
+    float: left;
+    width: 95%;
+    font-style: italic;
+}
+.quote{
+    width: 40px;
+    height: 40px;
+    display: block;
+    float: left;
+}
+.bottom-about{
+    display: inline-flex;
+}
+.bottom-about .article{
+    width:50%;
+}
+.bottom-about-in{
+    display: inline-flex;
+}
+.bottom-about-in .article{
+    width:30%;
+}
+
+.button1{
+    float: left;
+    width: 13%;
+}
+.button1 a{
+    text-decoration: none;
+    color: #fff;
+    font-size:16px;
+    background: #7da22c;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+
+.button2 a{
+    background: #ccc;
+}
+.button3 a{
+    background: #4C80FF;
+}
+.button4 a{
+    background: #E37341;
+}
+.button5 a{
+    background: #dd66da;
+}
+
+.button6 a{
+    background: #f35454;
+}
+.button7 a{
+    background: #5dd8df;
+}
+.alter-text{
+    margin-top:50px;
+}
+.alter{
+    padding:10px;
+}
+.alter a{
+    text-decoration: none;
+    color: #98c601;
+    font-size: 1.2em;
+    background: #effeb9;
+    padding: 1.5em;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid #98c601;
+    font-style: italic;
+}
+.alter1 a{
+    color: #eb5439;
+    background: #fbcbc1;
+    border: 1px solid #eb5439;
+}
+
+.alter2 a{
+    color: #fab418;
+    background: #ffe9ad;
+    border: 1px solid #fab418;
+}
+.alter3 a{
+    color: #97bfe1;
+    background: #d1e4f3;
+    border: 1px solid #97bfe1;
+
+}
